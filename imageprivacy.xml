@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="joomgallery" method="upgrade">
+  <name>Jooma Gallery Image Privacy</name>
+  <author>Manish Trivedi</author>
+  <creationDate>Jan2013</creationDate>
+  <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+  <authorEmail>manish.tech2@readybytes.in</authorEmail>
+  <version>1.0</version>
+  <scriptfile>install.script.php</scriptfile>
+  <files>
+    <filename plugin="imageprivacy">imageprivacy.php</filename>
+    <filename>index.html</filename>
+    <folder>privacyfield</folder>
+    <folder>helpers</folder>
+  </files>
+  <config>
+  </config>
+</extension>
