@@ -1,0 +1,4 @@
+JoomGalleryImagePrivacy
+=======================
+
+JoomGallery ImagePrivacy
